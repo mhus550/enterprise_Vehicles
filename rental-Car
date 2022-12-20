@@ -1,0 +1,9 @@
+Homework Assignment 1
+
+ Scenario: write manual testing steps 
+ Given user navigates to the home page "https://www.enterprise.com/en/home.html"
+ Then user verifies if "View All Vehicles" in the home page
+ Then user verifies "product displays 4-8 People" 
+ Then user verifies that the "3-7 Bags"
+ Then user verifies "AWD & 4x4 Cars " 
+ 
